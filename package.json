@@ -1,0 +1,30 @@
+{
+  "name": "typescript-games",
+  "version": "1.0.0",
+  "description": "Fun thing for typescript games",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Rios/typescript-games.git"
+  },
+  "keywords": [
+    "typescript",
+    "games"
+  ],
+  "author": "Chris Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Rios/typescript-games/issues"
+  },
+  "homepage": "https://github.com/Chris-Rios/typescript-games#readme"
+}
